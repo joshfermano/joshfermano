@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **American Sign Language using Computer Vision**
 
-- 🌱 I’m currently learning **React, Next.Js**
+- 🌱 I’m currently learning **React, Next.js, Node.js**
 
 - 💬 Ask me about **Python, JavaScript**
 
