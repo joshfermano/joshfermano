@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently a 3rd-year Computer Science student at the Technological University of the Philippines Manila and serve as the Innovations Strategy Lead at Google Developer Groups on Campus - TUP Manila. I specialize in Full Stack Software Development
 
 
